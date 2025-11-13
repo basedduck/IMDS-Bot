@@ -1,0 +1,9 @@
+part_name,wuc,description,aircraft_type
+Engine,11-12-00,Main engine assembly,C-130
+Hydraulic Pump,29-10-00,Primary hydraulic system pump,C-130
+Avionics Unit,34-20-00,Navigation and communication system,F-16
+Landing Gear,32-10-00,Main landing gear assembly,C-130
+Ejection Seat,08-10-00,Pilot ejection seat,F-16
+Fuel System,28-10-00,Main fuel tanks and lines,C-130
+Electrical Panel,24-30-00,Main electrical distribution,F-16
+Air Filter,11-20-00,Engine air intake filter,C-130
